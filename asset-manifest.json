@@ -1,17 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.a2e1e626.chunk.css",
-    "main.js": "/static/js/main.b3c43ef8.chunk.js",
-    "main.js.map": "/static/js/main.b3c43ef8.chunk.js.map",
+    "main.js": "/static/js/main.d439e52b.chunk.js",
+    "main.js.map": "/static/js/main.d439e52b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a1763ce9.js",
     "runtime-main.js.map": "/static/js/runtime-main.a1763ce9.js.map",
-    "static/js/2.13cafb19.chunk.js": "/static/js/2.13cafb19.chunk.js",
-    "static/js/2.13cafb19.chunk.js.map": "/static/js/2.13cafb19.chunk.js.map",
+    "static/js/2.811aa080.chunk.js": "/static/js/2.811aa080.chunk.js",
+    "static/js/2.811aa080.chunk.js.map": "/static/js/2.811aa080.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a1537232001cf5d37577213e1bfe8d7f.js": "/precache-manifest.a1537232001cf5d37577213e1bfe8d7f.js",
+    "precache-manifest.b86340acdb91741aa2ed069d2cee832c.js": "/precache-manifest.b86340acdb91741aa2ed069d2cee832c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.a2e1e626.chunk.css.map": "/static/css/main.a2e1e626.chunk.css.map",
     "static/media/3DSceneParsingReconstruction00.png": "/static/media/3DSceneParsingReconstruction00.3a6c8ef6.png",
+    "static/media/ExpireNextDay_overview.png": "/static/media/ExpireNextDay_overview.5147df24.png",
+    "static/media/ExpireNextDay_predict.png": "/static/media/ExpireNextDay_predict.0be6a6eb.png",
+    "static/media/ExpireNextDay_spread.png": "/static/media/ExpireNextDay_spread.f2c3c240.png",
+    "static/media/ExpireNextDay＿warroom.png": "/static/media/ExpireNextDay＿warroom.75a0a6eb.png",
     "static/media/NYCcrimeDataVis_thumb.png": "/static/media/NYCcrimeDataVis_thumb.a4578911.png",
     "static/media/NYCdata.png": "/static/media/NYCdata.86524818.png",
     "static/media/PiggyBako-l.png": "/static/media/PiggyBako-l.b3544fd6.png",
@@ -31,6 +35,7 @@
     "static/media/democraticDrive.png": "/static/media/democraticDrive.62bd870a.png",
     "static/media/democraticDrive_thumb.png": "/static/media/democraticDrive_thumb.db33ebda.png",
     "static/media/desert.jpg": "/static/media/desert.1bd20167.jpg",
+    "static/media/expire-next-day_thumb.png": "/static/media/expire-next-day_thumb.81867c43.png",
     "static/media/flower.jpg": "/static/media/flower.4af73c70.jpg",
     "static/media/ice.jpg": "/static/media/ice.c2b7fe80.jpg",
     "static/media/lava.jpg": "/static/media/lava.582edfe8.jpg",
@@ -43,8 +48,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a1763ce9.js",
-    "static/js/2.13cafb19.chunk.js",
+    "static/js/2.811aa080.chunk.js",
     "static/css/main.a2e1e626.chunk.css",
-    "static/js/main.b3c43ef8.chunk.js"
+    "static/js/main.d439e52b.chunk.js"
   ]
 }
